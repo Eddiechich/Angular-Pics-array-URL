@@ -1,4 +1,4 @@
-# used to upload pics via array.
+# used to upload pics via array using URL.
 
 
 # Pictures
